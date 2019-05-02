@@ -4,6 +4,20 @@ body {
     padding: 0;
 }
 
+nav {
+   display: inline;
+   text-decoration: none;
+
+   ul {
+       text-decoration: none;
+   }
+
+   li {
+       display: inline;
+       text-decoration: none;
+   }
+}
+
 h3 {
     margin: 0;
     font-family: 'Shadows Into Light', cursive;
