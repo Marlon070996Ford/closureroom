@@ -12,7 +12,7 @@ h3 {
   padding-top: 15vh; }
 
 .hero {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.459), #000000a9), url(../../images/tshirt.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.459), #000000a9), url(../images/tshirt.jpg);
   background-size: 100% 100%;
   background-attachment: fixed;
   background-repeat: no-repeat;
